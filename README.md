@@ -1,5 +1,6 @@
 # Basic-simulations
 
-I will dump all the random simulation files that I make, for no particular reasons.
+This repo is for all the simulation files that I make, either for a course or just for fun.
+Enjoy
 
 Language : python3
